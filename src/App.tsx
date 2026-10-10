@@ -6,7 +6,7 @@ import { Buffer } from "buffer";
 // ║  Self-Evolving Brain · QE Pro · Live Signals · DEX Swaps ║
 // ╚══════════════════════════════════════════════════════════╝
 
-const API = "https://quantifesta-api-production.up.railway.app";
+const API = "https://quantifesta-api-bxwu.onrender.com";
 
 // Jupiter DEX aggregator API (v6 — Quote + Swap)
 const JUP_API = "https://quote-api.jup.ag/v6";
